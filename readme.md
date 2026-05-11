@@ -1,10 +1,10 @@
-# Project Proposal: The Universal Philanthropy OS
+# Project Proposal: The Universal GiveStack
 *Bridging the gap between donor intent and global impact through AI-driven discovery, real-time crisis response, and agentic automation.*
 
 ---
 
 ## 1. Executive Summary
-The **Philanthropy OS** is a dual-sided AI platform designed to accelerate charitable giving by creating a seamless "Donor Passport." The solution combines a personalized discovery engine for donors with an intelligent, embeddable widget for nonprofits — enabling data-driven alignment, real-time crisis response, and automated high-impact giving. A multi-source **Trust Index** and a live **Crisis Pulse Engine** elevate the platform beyond any existing giving tool.
+The **GiveStack** is a dual-sided AI platform designed to accelerate charitable giving by creating a seamless "Donor Passport." The solution combines a personalized discovery engine for donors with an intelligent, embeddable widget for nonprofits — enabling data-driven alignment, real-time crisis response, and automated high-impact giving. A multi-source **Trust Index** and a live **Crisis Pulse Engine** elevate the platform beyond any existing giving tool.
 
 ---
 
@@ -121,7 +121,7 @@ When Crisis Event fires (validated by 2+ sources):
 
 ## 6. Competitive Advantages
 
-| Feature | Traditional Giving | The Philanthropy OS |
+| Feature | Traditional Giving | The GiveStack |
 | :--- | :--- | :--- |
 | **Discovery** | Manual Search | AI-Driven "Values Match" |
 | **Trust** | Static Ratings | Composite Trust Index (4 sources) |

@@ -2,7 +2,7 @@
 
 ## Context
 
-OBAT Helpers is a 20+ year old nonprofit (founded 2004) serving camps in Bangladesh across education, clean water, health, and economic empowerment. They raised $1.59M in 2024 (down from a $2.18M peak in 2023) and are targeting $3M+ in 2026. This deck reveals strong mission clarity but significant structural fundraising challenges — particularly around donor retention and first-time donor conversion — that philanthropy-os is well-positioned to address.
+OBAT Helpers is a 20+ year old nonprofit (founded 2004) serving camps in Bangladesh across education, clean water, health, and economic empowerment. They raised $1.59M in 2024 (down from a $2.18M peak in 2023) and are targeting $3M+ in 2026. This deck reveals strong mission clarity but significant structural fundraising challenges — particularly around donor retention and first-time donor conversion — that givestack is well-positioned to address.
 
 ---
 
@@ -49,17 +49,17 @@ OBAT Helpers is a 20+ year old nonprofit (founded 2004) serving camps in Banglad
 
 ---
 
-## Ideas for philanthropy-os
+## Ideas for givestack
 
 ### Idea 1: Islamic Giving Calendar Mode for NGO Profiles
-OBAT's entire donor journey is structured around the Islamic calendar (Ramadan, Qurbani/Eid al-Adha, Zakat due dates). philanthropy-os could offer NGOs with Muslim donor bases a calendar-aware mode:
+OBAT's entire donor journey is structured around the Islamic calendar (Ramadan, Qurbani/Eid al-Adha, Zakat due dates). givestack could offer NGOs with Muslim donor bases a calendar-aware mode:
 - Automated campaign launch tied to Islamic calendar dates
 - Pre-Ramadan donor outreach sequence (30/14/7 day pre-campaign warming)
 - Zakat eligibility calculator embedded in the donation flow (donor enters nisab, gets recommended amount)
 - Post-Eid giving reminders for Qurbani
 
 ### Idea 2: First-Time Donor Onboarding Journey
-OBAT's 58% first-time churn is almost certainly a post-donation experience failure. philanthropy-os could build:
+OBAT's 58% first-time churn is almost certainly a post-donation experience failure. givestack could build:
 - A "Day 1, Day 7, Day 30" automated impact update sequence for new donors
 - Specific impact attribution: "Your $50 enrolled 1 student for a month"
 - A soft monthly upgrade prompt at Day 30 ("Join 32% of our supporters as a monthly partner")
@@ -79,14 +79,14 @@ With $450K in identified revenue at stake from churn reduction, an NGO would pay
 - Corporate matching awareness at the $100–$500 tier (many employers match but donors don't know)
 
 ### Idea 5: Corporate Partnership Pipeline for NGOs
-Only 4% of OBAT's donor base is corporate — a massive untapped segment. philanthropy-os could:
+Only 4% of OBAT's donor base is corporate — a massive untapped segment. givestack could:
 - Add a "Corporate Partners" section to NGO profiles with partnership tier cards
 - Build a simple lead capture form for corporate inquiries tied to the NGO's CRM
 - Surface corporate matching programs that align with the NGO's cause categories
 - This connects directly to the SFDC research already in the repo
 
 ### Idea 6: TikTok → Email Bridge (Social-to-Owned Conversion)
-OBAT has 120K monthly TikTok reach with no clear capture mechanism. philanthropy-os could:
+OBAT has 120K monthly TikTok reach with no clear capture mechanism. givestack could:
 - Provide NGOs a "link in bio" landing page optimized for social-to-email conversion
 - Offer a lead magnet template ("Get OBAT's 2024 Impact Report") gated by email
 - Track social referral traffic through the embeddable widget
@@ -98,7 +98,7 @@ The 2024 annual report data (11.7K students, 165K clean water access) is compell
 - Donor-specific impact statements ("In 2024, your giving helped provide clean water to 8 people")
 
 ### Idea 8: Revenue Recovery Analysis Mode
-The 2022→2023→2024 revenue dip is a signal that requires explanation before setting 2026 targets. philanthropy-os could offer:
+The 2022→2023→2024 revenue dip is a signal that requires explanation before setting 2026 targets. givestack could offer:
 - A revenue trend visualization in the NGO dashboard showing year-over-year donation patterns
 - Campaign attribution: which campaign drove the 2023 peak?
 - Cohort analysis: did a specific donor segment churn heavily in 2024?
@@ -120,7 +120,7 @@ The 2022→2023→2024 revenue dip is a signal that requires explanation before 
 
 ---
 
-## Connection to philanthropy-os
+## Connection to givestack
 
 OBAT Helpers is an ideal pilot NGO for the platform. They have:
 - Real data (Form 990 public financials)

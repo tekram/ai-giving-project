@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Philanthropy OS are documented here.
+All notable changes to GiveStack are documented here.
 
 ---
 

@@ -7,7 +7,7 @@
 3.  **OBAT Health / Anwar** (hereinafter referred to as **"OBAT"**)
 
 ### 1. Purpose & Project Reference
-The Parties intend to collaborate on a joint grant application to the **Bill & Melinda Gates Foundation** for the development of **"Philanthropy OS: An AI-Driven Ecosystem for Accelerated Giving."** This MOU governs the relationship described in the technical specifications and implementation roadmap found at:
+The Parties intend to collaborate on a joint grant application to the **Bill & Melinda Gates Foundation** for the development of **"GiveStack: An AI-Driven Ecosystem for Accelerated Giving."** This MOU governs the relationship described in the technical specifications and implementation roadmap found at:
 * **Project Repository:** [github.com/tekram/ai-giving-project](https://github.com/tekram/ai-giving-project/tree/main)
 * **Detailed RFP Response:** [RFP_response.md](https://github.com/tekram/ai-giving-project/blob/main/RFP_response.md)
 
@@ -27,11 +27,11 @@ The Parties intend to collaborate on a joint grant application to the **Bill & M
 ### 4. Post-Grant Compensation & Disbursement Schedule
 Subject to the successful awarding of the grant, the total Project Fee of **$50,000 USD** shall be distributed to the Technical Lead according to the following milestones:
 1.  **Grant Award Initiation:** **$10,000** payable immediately upon receipt of the grant reward from the Foundation.
-2.  **Iterative Development Milestone:** **$25,000** payable upon completion and deployment of the next major iteration/beta version of the Philanthropy OS platform.
+2.  **Iterative Development Milestone:** **$25,000** payable upon completion and deployment of the next major iteration/beta version of the GiveStack platform.
 3.  **Operational Support:** The remaining **$15,000** shall be distributed in three (3) monthly installments of **$5,000** each following the completion of the second milestone.
 
 ### 5. Intellectual Property (IP) Ownership
-* **Developer Ownership:** **All Intellectual Property (IP), including but not limited to source code, algorithms, and the "Philanthropy OS" architecture, remains the sole property of the Developers (Tashfeen Ekram and Jawaid Ekram).**
+* **Developer Ownership:** **All Intellectual Property (IP), including but not limited to source code, algorithms, and the "GiveStack" architecture, remains the sole property of the Developers (Tashfeen Ekram and Jawaid Ekram).**
 * **Usage License:** In consideration of their role as the primary test site and fiscal sponsor, OBAT is granted a **perpetual, irrevocable, and royalty-free license** to use the platform for its charitable missions. 
 * **Commercialization:** The Developers retain the exclusive right to commercialize, license, or open-source the underlying technology for other applications or organizations.
 

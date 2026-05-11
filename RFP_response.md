@@ -1,4 +1,4 @@
-# Philanthropy OS: An AI-Driven Ecosystem for Accelerated Giving
+# GiveStack: An AI-Driven Ecosystem for Accelerated Giving
 
 **Sponsored by:** OBAT Helpers Inc.  
 **Project Manager:** Jawaid Ekram  
@@ -8,7 +8,7 @@
 ---
 
 ## 1. Executive Summary
-**Philanthropy OS** is an AI-native "Giving Layer" designed to move donors from intent to action. By replacing fragmented donation experiences with a portable **Impact Passport** and an **Agentic Giving Engine**, we enable site-agnostic donor recognition and automated, high-impact capital distribution. 
+**GiveStack** is an AI-native "Giving Layer" designed to move donors from intent to action. By replacing fragmented donation experiences with a portable **Impact Passport** and an **Agentic Giving Engine**, we enable site-agnostic donor recognition and automated, high-impact capital distribution. 
 
 This project is a direct response to the Bill & Melinda Gates Foundation Grand Challenge: *Artificial Intelligence (AI) to Accelerate Charitable Giving*.
 
@@ -25,12 +25,12 @@ Jawaid is a seasoned technology executive and cloud computing veteran with over 
 Tashfeen is a healthcare innovator, radiologist, and self-taught coder who specializes in bridging the gap between complex technology and user experience.
 * **Entrepreneurial Success:** Co-founder and Chief Medical Officer of **Luma Health**, where he architected AI-driven patient communication systems to automate complex journeys.
 * **Academic Excellence:** A graduate of the University of Michigan Medical School and a **Fulbright Scholar** with research experience in population displacement.
-* **Technical Focus:** His expertise in automating high-friction user journeys and analyzing complex data sets (from healthcare workflows to market signals) serves as the technical backbone for the Philanthropy OS "Agentic" engine.
+* **Technical Focus:** His expertise in automating high-friction user journeys and analyzing complex data sets (from healthcare workflows to market signals) serves as the technical backbone for the GiveStack "Agentic" engine.
 
 ---
 
 ## 3. Core Vision: The "Giving Layer"
-Philanthropy OS creates a persistent interface that follows the donor across the web. Whether a donor is on a news site, a social media platform, or a specific NGO landing page, their values and "Giving Passport" are instantly accessible via an AI-driven concierge.
+GiveStack creates a persistent interface that follows the donor across the web. Whether a donor is on a news site, a social media platform, or a specific NGO landing page, their values and "Giving Passport" are instantly accessible via an AI-driven concierge.
 
 ### Key Features:
 * **Impact Passport:** A persistent, verified donor identity that stores giving history, values, and interests.

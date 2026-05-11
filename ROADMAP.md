@@ -1,4 +1,4 @@
-# Philanthropy OS — Product Roadmap
+# GiveStack — Product Roadmap
 
 A persistent "Giving Layer" that follows donors across the web — replacing fragmented donation experiences with a portable, AI-powered **Impact Passport**.
 

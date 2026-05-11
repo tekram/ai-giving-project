@@ -2,7 +2,7 @@
 
 ## Context
 
-This deck belongs to a large-scale US-based Islamic nonprofit with a national chapter structure and $25M+ in total annual revenue (2025). The organization runs sophisticated multi-channel fundraising — Ramadan campaigns, corporate partnerships, chapter-based events, digital ads — and tracks performance across segmented donor tiers. Despite strong top-line growth ($18.79M → $22.45M → $25.20M from 2023–2025), several structural cracks are visible under the surface that philanthropy-os is well-positioned to address.
+This deck belongs to a large-scale US-based Islamic nonprofit with a national chapter structure and $25M+ in total annual revenue (2025). The organization runs sophisticated multi-channel fundraising — Ramadan campaigns, corporate partnerships, chapter-based events, digital ads — and tracks performance across segmented donor tiers. Despite strong top-line growth ($18.79M → $22.45M → $25.20M from 2023–2025), several structural cracks are visible under the surface that givestack is well-positioned to address.
 
 ---
 
@@ -67,38 +67,38 @@ This deck belongs to a large-scale US-based Islamic nonprofit with a national ch
 
 ---
 
-## Ideas for philanthropy-os
+## Ideas for givestack
 
 ### Idea 1: Donor Tier Intelligence Dashboard
-The 5-tier donor classification (Level A–E) with 3-year revenue trend is exactly what philanthropy-os's DonorIntelligence component should surface. Ideas:
+The 5-tier donor classification (Level A–E) with 3-year revenue trend is exactly what givestack's DonorIntelligence component should surface. Ideas:
 - Visual tier breakdown with year-over-year revenue per tier
 - Alert when a tier drops significantly (Level A alarm would have fired in early 2025)
 - Upgrade path recommendations: "X donors in Level D gave 3+ times — prompt for Level C upgrade"
 - Tier velocity tracking: how many donors moved up vs. down vs. lapsed per quarter
 
 ### Idea 2: Chapter / Geographic Revenue Benchmarking
-The chapter revenue slide ($1.92M Seattle vs $45.94K San Antonio) reveals no playbook transfer mechanism. philanthropy-os could:
+The chapter revenue slide ($1.92M Seattle vs $45.94K San Antonio) reveals no playbook transfer mechanism. givestack could:
 - Add geographic performance view to the NGO dashboard — revenue by city/chapter
 - Surface top-performing chapter tactics as templates for lower-performing ones
 - Identify under-penetrated cities relative to Muslim population density (Houston is #3 but could be higher)
 - Flag chapters where digital as % of revenue is below average — those are digital investment opportunities
 
 ### Idea 3: Revenue Concentration Risk Scoring
-Ramadan = ~32% of online revenue in one window. philanthropy-os could:
+Ramadan = ~32% of online revenue in one window. givestack could:
 - Calculate a "campaign concentration score" for each NGO — what % of annual revenue comes from the top campaign
 - Flag when concentration exceeds a threshold (e.g., >25% from one campaign)
 - Suggest counter-programming: monthly giving push in off-peak months to flatten the curve
 - Show what revenue would look like if Ramadan dropped 20% (scenario modeling)
 
 ### Idea 4: Islamic Giving Calendar — Ramadan + Dhul Hajj Twin-Peak Model
-Ramadan is built. Dhul Hajj is the opportunity. philanthropy-os could:
+Ramadan is built. Dhul Hajj is the opportunity. givestack could:
 - Build a two-peak giving calendar template for Islamic NGOs (Ramadan March-April, Dhul Hajj June-July)
 - Pre-campaign engagement sequence for Dhul Hajj mirroring the Ramadan playbook
 - Qurbani-specific donation flows (donor selects animal type/region — highly engaging for this audience)
 - Year-round Islamic engagement calendar: Muharram, Mawlid, Shaban appeal for monthly giving activation
 
 ### Idea 5: Corporate Partnership CRM Module
-20 partners at $75.8K average is severely underscaled. philanthropy-os could build:
+20 partners at $75.8K average is severely underscaled. givestack could build:
 - A "Corporate Partners" pipeline view in the NGO dashboard (currently companies are just donors, not relationship-managed)
 - Partnership tier cards: Bronze/Silver/Gold with specific recognition benefits
 - Matching gift activation: surface to donors that their employer matches — automated at donation checkout
@@ -111,14 +111,14 @@ The 42x gap between top and bottom chapter is a playbook problem, not a potentia
 - Peer comparison: "Houston raised $1.43M — your city has similar demographics but raised $210K"
 
 ### Idea 7: KPI Activity Tracker with Accountability Layer
-The marketing KPI dashboard (Slide 2) shows 3 halted/at-risk activities with no escalation mechanism. philanthropy-os could:
+The marketing KPI dashboard (Slide 2) shows 3 halted/at-risk activities with no escalation mechanism. givestack could:
 - Add a marketing activity tracker to the NGO portal with progress, owner, deadline, status
 - Auto-flag activities that go stale (no update in 14 days) or drop below threshold progress
 - Surface blocked activities to leadership automatically rather than requiring manual deck review
 - Connect campaign KPIs (email open rate, landing page conversion) to donation outcomes
 
 ### Idea 8: Online vs. Offline Attribution Dashboard
-Online share is shrinking (39%→36%) while offline grows — but the org may not realize offline is the growth driver. philanthropy-os could:
+Online share is shrinking (39%→36%) while offline grows — but the org may not realize offline is the growth driver. givestack could:
 - Show online vs. offline revenue split with trend line prominently in the NGO dashboard
 - Attribution tagging: which offline events / chapters / mailings drove online follow-up donations?
 - Help NGOs understand whether digital spend is actually acquiring new donors or just recapturing donors who would have given anyway
